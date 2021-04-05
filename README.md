@@ -17,8 +17,10 @@ EDUCATION	Database 11g Administrator Certified Associate
 	PHP with MySQL Advanced	(SEMOS education) - January 21, 2014 – February 11, 2014
 
 	Java Basic (SEAVUS education) - November 25, 2014 – December 25, 2014
-
-SKILLS	Database 11g Administrator Certified Associate		
+		
+		SKILLS
+	SQL
+	Database 11g Administration		
 	PHP with MySQL Basic, PHP with MySQL Advanced
 	Java Basic, Java advanced
         HTML, CSS, SQL, JQUERY, Bootstrap, MVC, PHP Codeigniter Web Framework
