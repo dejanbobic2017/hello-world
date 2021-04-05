@@ -20,6 +20,6 @@ Database 11g Administrator Certified Associate - (SEAVUS EDUCATION and DEVELOPME
 	- SQL
 	- Database 11g Administration		
 	- PHP with MySQL Basic, PHP with MySQL Advanced
-	- Java Basic, Java advanced
+	- Java Basic
         - HTML, CSS, SQL, JQUERY, Bootstrap, MVC, PHP Codeigniter Web Framework
 	- Linux basic knowledge, IP
